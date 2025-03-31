@@ -4,16 +4,16 @@ Bienvenue sur la documentation du projet !
 
 ## 📚 Guides disponibles
 
-- [Guide Windows](../guides/GUIDE_WINDOWS.md)
-- [Guide Ubuntu](../guides/GUIDE_UBUNTU.md)
-- [Guide macOS](../guides/GUIDE_MACOS.md)
-- [Guide VM / Virtualisation](../guides/GUIDE_VM_CONVERSION.md)
+- [Guide Windows](https://github.com/MatPtn27/raspberrypi-backup-tools/tree/main/guides/GUIDE_WINDOWS.md)
+- [Guide Ubuntu](https://github.com/MatPtn27/raspberrypi-backup-tools/tree/main/guides/GUIDE_UBUNTU.md)
+- [Guide macOS](https://github.com/MatPtn27/raspberrypi-backup-tools/tree/main/guides/GUIDE_MACOS.md)
+- [Guide VM / Virtualisation](https://github.com/MatPtn27/raspberrypi-backup-tools/tree/main/guides/GUIDE_VM_CONVERSION.md)
 
 ---
 
 ## 📦 Scripts
 
-Tous les scripts sont disponibles dans le dossier [`scripts/`](../scripts)
+Tous les scripts sont disponibles dans le dossier [`scripts/`](https://github.com/MatPtn27/raspberrypi-backup-tools/tree/main/scripts)
 
 ## 🔗 GitHub
 
